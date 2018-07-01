@@ -1,0 +1,6 @@
+ynd : www.yandex.ru
+ggl : www.google.com
+epm : www.epam.com
+ml  : www.mail.ru
+mal : www.mail.ru
+ya  : www.yandex.ru
